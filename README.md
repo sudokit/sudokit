@@ -1,7 +1,5 @@
 ### Hi there 👋
-<p align=”center”> 
-  <img width=”200" height=”200" src=”<img width=”200" height=”200" src=”https://user-images.githubusercontent.com/75753187/123358567-aac7b900-d539-11eb-8275-0b380264bb4c.png" alt=”my banner”>
-</p>
+![Neon Green Futuristic Twitch Banner](https://user-images.githubusercontent.com/64897647/140882017-8e476a8c-4d1a-4624-a31f-f9757cff9c32.png)
 <!--
 **sudokit/sudokit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
