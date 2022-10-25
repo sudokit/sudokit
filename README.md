@@ -22,7 +22,7 @@ fn main() {
 	other_info: String::from("I've used windows for 1 year but now Im using linux for 1 year and i think Im going to stick to using linux."),
     };
     println!(
-        "Hi 👋. I'm {}, {} years old from {}.",
+        "Hi. I'm {}, {} years old from {}.",
         sudokit.username, sudokit.age, sudokit.location
     );
     println!("Programming languages I've used / Im using are: ");
