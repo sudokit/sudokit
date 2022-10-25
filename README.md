@@ -13,14 +13,14 @@ struct Person {
 
 fn main() {
     let sudokit: Person = Person {
-		username: String::from("sudokit"),
-		location: String::from("Finland"),
-		age: 17,
-		languages: vec![ "Python", "C++ (learned the bare basics)", "C (learned the bare basics)", "Rust (still learning)" ].iter().map(|&s| s.into()).collect(),
-		ides: vec![ "CLion", "VSCode", "Nvim", "Neovide (current editor)" ].iter().map(|&s| s.into()).collect(),
-		interests: vec![ "Physics engines (especially voxel)", "3D/2D rendering engines (especially voxel)", "Arduino related stuff", "Linux", "Windows" ].iter().map(|&s| s.into()).collect(),
-		other_info: String::from("I've used windows for 1 year but now im using linux for 1 year and i think im going to stick to using linux."),
-	};
+	username: String::from("sudokit"),
+	location: String::from("Finland"),
+	age: 17,
+	languages: vec![ "Python", "C++ (learned the bare basics)", "C (learned the bare basics)", "Rust (still learning)" ].iter().map(|&s| s.into()).collect(),
+	ides: vec![ "CLion", "VSCode", "Nvim", "Neovide (current editor)" ].iter().map(|&s| s.into()).collect(),
+	interests: vec![ "Physics engines (especially voxel)", "3D/2D rendering engines (especially voxel)", "Arduino related stuff", "Linux", "Windows" ].iter().map(|&s| s.into()).collect(),
+	other_info: String::from("I've used windows for 1 year but now im using linux for 1 year and i think im going to stick to using linux."),
+    };
     println!(
         "Hi 👋. I'm {}, {} years old from {}.",
         sudokit.username, sudokit.age, sudokit.location
