@@ -19,13 +19,13 @@ fn main() {
 	languages: vec![ "Python", "C++ (learned the bare basics)", "C (learned the bare basics)", "Rust (still learning)" ].iter().map(|&s| s.into()).collect(),
 	ides: vec![ "CLion", "VSCode", "Nvim", "Neovide (current editor)" ].iter().map(|&s| s.into()).collect(),
 	interests: vec![ "Physics engines (especially voxel)", "3D/2D rendering engines (especially voxel)", "Arduino related stuff", "Linux", "Windows" ].iter().map(|&s| s.into()).collect(),
-	other_info: String::from("I've used windows for 1 year but now im using linux for 1 year and i think im going to stick to using linux."),
+	other_info: String::from("I've used windows for 1 year but now Im using linux for 1 year and i think Im going to stick to using linux."),
     };
     println!(
         "Hi 👋. I'm {}, {} years old from {}.",
         sudokit.username, sudokit.age, sudokit.location
     );
-    println!("Programming languages I've used are: ");
+    println!("Programming languages I've used / Im using are: ");
     for language in sudokit.languages.iter() {
         println!("* {language}");
     }
@@ -33,7 +33,7 @@ fn main() {
     for ide in sudokit.ides.iter() {
         println!("* {ide}");
     }
-    println!("\nTechnologies im interested in include: ");
+    println!("\nTechnologies Im interested in include: ");
     for interest in sudokit.interests.iter() {
         println!("* {interest}");
     }
@@ -46,8 +46,8 @@ fn main() {
 > cargo run
 ```
 
-Hi 👋. I'm sudokit, 17 years old.
-Programming languages I've used are:
+Hi 👋. I'm sudokit, 17 years old from Finland.
+Programming languages I've used / Im using are:
 * Python [![Python](https://img.shields.io/badge/Python-yellow?style=flat-square&logo=Python)](https://www.python.org/) (used for 1 year but still learning)
 * C++ [![C++](https://img.shields.io/badge/C++-blue?style=flat-square&logo=C++)](https://isocpp.org/) (learned the bare basics and still learning)
 * C [![C](https://img.shields.io/badge/C-gray?style=flat-square&logo=C)](https://en.wikipedia.org/wiki/C_(programming_language)) (learned the bare basics)
@@ -66,7 +66,7 @@ Technologies im interested in include:
 * Linux[![Linux](https://img.shields.io/badge/Linux-black?style=flat-square&logo=Linux)](https://www.linux.org/)
 * Windows [![Windows](https://img.shields.io/badge/Windows-blue?style=flat-square&logo=Windows)](https://www.microsoft.com/en-us/windows) 
 
-I've used windows for 1 year but now im using linux for 1 year and i think im going to stick to linux.
+I've used windows for 1 year but now Im using linux for 1 year and i think Im going to stick to linux.
 
 
 ![sudokit's GitHub stats](https://github-readme-stats.vercel.app/api?username=sudokit&show_icons=true&theme=tokyonight)
