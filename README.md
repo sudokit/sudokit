@@ -70,4 +70,4 @@ I've used windows for 1 year but now im using linux for 1 year and i think im go
 
 
 ![sudokit's GitHub stats](https://github-readme-stats.vercel.app/api?username=sudokit&show_icons=true&theme=tokyonight)
-![sudokit's Testaustime stats](https://github-readme-testaustime.vercel.app/api/testaustime?username=sudokit&layout=compact&range=7&langs_count=10&theme=tokyonight)
+![sudokit's Testaustime stats](https://github-readme-testaustime.vercel.app/api/testaustime?username=sudokit&show_icons=true&range=5&langs_count=5&theme=tokyonight)
