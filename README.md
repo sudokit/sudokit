@@ -14,7 +14,7 @@ struct Person {
 fn main() {
     let sudokit: Person = Person {
 		username: String::from("sudokit"),
-        location: String::from("Finland"),
+		location: String::from("Finland"),
 		age: 17,
 		languages: vec![ "Python", "C++ (learned the bare basics)", "C (learned the bare basics)", "Rust (still learning)" ].iter().map(|&s| s.into()).collect(),
 		ides: vec![ "CLion", "VSCode", "Nvim", "Neovide (current editor)" ].iter().map(|&s| s.into()).collect(),
