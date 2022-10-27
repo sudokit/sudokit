@@ -63,7 +63,7 @@ Hi. I'm sudokit, 17 years old from Finland. <br>
 * Physics engines (especially voxels)
 * 3D/2D rendering engines (especially voxels)
 * Arduino related stuff [![Arduino](https://img.shields.io/badge/Arduino-blue?style=flat-square&logo=Arduino)](https://www.arduino.cc/)
-* Linux[![Linux](https://img.shields.io/badge/Linux-black?style=flat-square&logo=Linux)](https://www.linux.org/)
+* Linux [![Linux](https://img.shields.io/badge/Linux-black?style=flat-square&logo=Linux)](https://www.linux.org/)
 * Windows [![Windows](https://img.shields.io/badge/Windows-blue?style=flat-square&logo=Windows)](https://www.microsoft.com/en-us/windows) 
 
 I've used windows for 1 year but now Im using linux for 1 year and i think Im going to stick to linux.
