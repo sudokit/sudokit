@@ -1,6 +1,6 @@
 # 👋sudokit
 
-Hi. I'm sudokit, 17 years old from Finland. <br>
+Hi. I'm sudokit, 17 years old. <br>
 #### Programming languages I've used / Im using are:
 * Python [![Python](https://img.shields.io/badge/Python-yellow?style=flat-square&logo=Python)](https://www.python.org/) (used for 1 year but still learning)
 * C++ [![C++](https://img.shields.io/badge/C++-blue?style=flat-square&logo=C++)](https://isocpp.org/) (learned the bare basics and still learning)
