@@ -6,6 +6,8 @@ Hi. I'm sudokit <br>
 * C++ [![C++](https://img.shields.io/badge/C++-blue?style=flat-square&logo=C++)](https://isocpp.org/) (learned the bare basics and still learning)
 * C [![C](https://img.shields.io/badge/C-gray?style=flat-square&logo=C)](https://en.wikipedia.org/wiki/C_(programming_language)) (learned the bare basics)
 * Rust [![Rust](https://img.shields.io/badge/Rust-red?style=flat-square&logo=rust)](https://www.rust-lang.org/) (still learning)
+* Nim [![Nim](https://img.shields.io/badge/Nim-red?style=flat-square&logo=nim)](https://nim-lang.org/) (just picked up)
+* Julia [![Julia](https://img.shields.io/badge/Julia-red?style=flat-square&logo=julia)](https://julialang.org/) (recently picked up)
 
 #### IDEs I have experience with are: 
 * VSCode [![VSCode](https://img.shields.io/badge/VSCode-blue?style=flat-square&logo=Microsoft)](https://code.visualstudio.com/)
@@ -18,3 +20,4 @@ Hi. I'm sudokit <br>
 * Arduino related stuff [![Arduino](https://img.shields.io/badge/Arduino-blue?style=flat-square&logo=Arduino)](https://www.arduino.cc/)
 * Linux [![Linux](https://img.shields.io/badge/Linux-black?style=flat-square&logo=Linux)](https://www.linux.org/)
 * Windows [![Windows](https://img.shields.io/badge/Windows-blue?style=flat-square&logo=Windows)](https://www.microsoft.com/en-us/windows) 
+* Machine learning and that kind of stuff
