@@ -11,7 +11,7 @@ Hi. I'm sudokit <br>
 #### IDEs I have experience with are: 
 * VSCode [![VSCode](https://img.shields.io/badge/VisualStudioCode-blue?style=flat-square&logo=VisualStudioCode)](https://code.visualstudio.com/)
 * Neovim [![Neovim](https://img.shields.io/badge/Neovim-brightgreen?style=flat-square&logo=Neovim)](https://neovim.io/)
-* Helix [![Helix](https://img.shields.io/badge/Helix-purple?style=flat-square&logo=Helix)](https://helix-editor.com/) (fav)
+* Helix [![Helix](https://img.shields.io/badge/Helix-purple?style=flat-square&logo=Helix)](https://helix-editor.com/)
 
 #### Technologies im interested in include: 
 * Physics engines
