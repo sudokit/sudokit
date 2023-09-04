@@ -22,3 +22,4 @@ Hi. I'm sudokit <br>
 * Linux
 * Windows 
 * Machine learning and that kind of stuff
+* 3D printing
