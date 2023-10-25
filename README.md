@@ -1,7 +1,7 @@
 # 👋sudokit
 
-Hi. I'm sudokit <br>
-#### Programming languages I've used / Im using are:
+Ello <br>
+#### Programming languages I've used / am using include:
 * Python [![Python](https://img.shields.io/badge/Python-yellow?style=flat-square&logo=Python)](https://www.python.org/) (using)
 * C++ [![C++](https://img.shields.io/badge/C++-blue?style=flat-square&logo=C++)](https://isocpp.org/) (mainly using for computer graphics)
 * C [![C](https://img.shields.io/badge/C-gray?style=flat-square&logo=C)](https://en.wikipedia.org/wiki/C_(programming_language)) (using for embedded stuff)
@@ -13,7 +13,7 @@ Hi. I'm sudokit <br>
 * Neovim [![Neovim](https://img.shields.io/badge/Neovim-brightgreen?style=flat-square&logo=Neovim)](https://neovim.io/)
 * Helix [![Helix](https://img.shields.io/badge/Helix-purple?style=flat-square&logo=Helix)](https://helix-editor.com/)
 
-#### Technologies im interested in include:
+#### Technologies Im interested in include:
 * Physics engines
 * embedded stuff
 * web stuff
